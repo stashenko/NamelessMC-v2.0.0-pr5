@@ -1,7 +1,7 @@
 <?php 
 /*
- *	Made by The_stas
- *  https://github.com/NamelessMC/Nameless/
+ *	Made by The_stas (stashenko)
+ *  https://github.com/stashenko/NamelessMC-v2.0.0-pr5
  *  NamelessMC version 2.0.0-pr5
  *
  *  License: MIT
